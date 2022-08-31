@@ -15,10 +15,8 @@ You are required to model the price of houses with the available independent var
 
 
 ## Conclusions
-- The alpha values for
-* Ridge=159
-* Lasso=560
-The features are listed in the notebook which can be used to make decision
+- The alpha values for Ridge=159 and Lasso=560
+- The features are listed in the notebook which can be used to make decision
 
 
 ## Acknowledgements
